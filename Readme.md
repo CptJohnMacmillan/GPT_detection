@@ -80,3 +80,4 @@ The models were able to achieve a good level of accuracy in distinguishing betwe
 ## References
 
 - [Persuade corpus](https://www.kaggle.com/datasets/nbroad/persaude-corpus-2)
+- [ArguGPT project](https://github.com/huhailinguist/ArguGPT)
